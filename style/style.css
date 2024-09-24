@@ -12,6 +12,7 @@
   display: flex;
 }
 
+
 .menu .nav-button {
   display: inline-block;
   margin-top: 6px;
@@ -96,4 +97,3 @@
     width: 50%;
   }
 }
-/*# sourceMappingURL=style.css.map */
